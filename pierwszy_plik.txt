@@ -1,1 +1,3 @@
-pierwsza linijka 
+pierwsza_linijka 
+druga_linijka
+trzecia_linijka
